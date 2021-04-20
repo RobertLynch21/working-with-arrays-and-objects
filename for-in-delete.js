@@ -40,11 +40,8 @@
 */
 
 function showValues( obj ) {
-  for(key in obj){
-    return obj[key[0]]
-  }
+  
 }
-
 
 
 
